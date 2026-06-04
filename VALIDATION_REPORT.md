@@ -1,0 +1,88 @@
+# Validation Report - dog-daily-care
+
+Generated: 2026-06-04T11:36:19.377962
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Dog Daily Care
+- ✓ Article word count OK: Beginner Dog Daily Care: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Dog Daily Care
+- ✓ Article word count OK: Beginner Dog Daily Care Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Dog Daily Care
+- ✓ Article word count OK: Beginner Dog Daily Care in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Dog Daily Care
+- ✓ Article word count OK: Common Mistakes in Beginner Dog Daily Care
+- ✓ Article word count OK: Beginner Dog Daily Care for Beginners
+- ✓ Article word count OK: Advanced Beginner Dog Daily Care Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Dog Daily Care
+- ✓ Article word count OK: Advanced Dog Daily Care: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Dog Daily Care
+- ✓ Article word count OK: Advanced Dog Daily Care Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Dog Daily Care
+- ✓ Article word count OK: Advanced Dog Daily Care in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Dog Daily Care
+- ✓ Article word count OK: Common Mistakes in Advanced Dog Daily Care
+- ✓ Article word count OK: Advanced Dog Daily Care for Beginners
+- ✓ Article word count OK: Advanced Advanced Dog Daily Care Techniques
+- ✓ Article word count OK: The Ultimate Guide to Dog Daily Care Tips
+- ✓ Article word count OK: Dog Daily Care Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Dog Daily Care Tips
+- ✓ Article word count OK: Dog Daily Care Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Dog Daily Care Tips
+- ✓ Article word count OK: Dog Daily Care Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Dog Daily Care Tips
+- ✓ Article word count OK: Common Mistakes in Dog Daily Care Tips
+- ✓ Article word count OK: Dog Daily Care Tips for Beginners
+- ✓ Article word count OK: Advanced Dog Daily Care Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Dog Daily Care History
+- ✓ Article word count OK: Dog Daily Care History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Dog Daily Care History
+- ✓ Article word count OK: Dog Daily Care History Tips and Best Practices
+- ✓ Article word count OK: The History of Dog Daily Care History
+- ✓ Article word count OK: Dog Daily Care History in 2026: Current Trends
+- ✓ Article word count OK: Future of Dog Daily Care History
+- ✓ Article word count OK: Common Mistakes in Dog Daily Care History
+- ✓ Article word count OK: Dog Daily Care History for Beginners
+- ✓ Article word count OK: Advanced Dog Daily Care History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Dog Daily Care
+- ✓ Article word count OK: Trending Dog Daily Care: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Dog Daily Care
+- ✓ Article word count OK: Trending Dog Daily Care Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Dog Daily Care
+- ✓ Article word count OK: Trending Dog Daily Care in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Dog Daily Care
+- ✓ Article word count OK: Common Mistakes in Trending Dog Daily Care
+- ✓ Article word count OK: Trending Dog Daily Care for Beginners
+- ✓ Article word count OK: Advanced Trending Dog Daily Care Techniques
+- ✓ Article word count OK: The Ultimate Guide to Dog Daily Care Tutorials
+- ✓ Article word count OK: Dog Daily Care Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Dog Daily Care Tutorials
+- ✓ Article word count OK: Dog Daily Care Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Dog Daily Care Tutorials
+- ✓ Article word count OK: Dog Daily Care Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Dog Daily Care Tutorials
+- ✓ Article word count OK: Common Mistakes in Dog Daily Care Tutorials
+- ✓ Article word count OK: Dog Daily Care Tutorials for Beginners
+- ✓ Article word count OK: Advanced Dog Daily Care Tutorials Techniques
+- ✓ Ad configuration validated
